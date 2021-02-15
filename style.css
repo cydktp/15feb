@@ -1,0 +1,76 @@
+p.uno{
+    color: cornflowerblue;
+    font-size: 100%;
+}
+
+hr{
+    width: 50%;
+}
+
+p.dos{
+    color: chartreuse;
+    font-size: 200%;
+}
+
+p.tres{
+    color: coral;
+    font-size: 50%;
+}
+
+div.cuatro{
+    font-size: 200%;
+}
+
+p.cuatro{
+    font-size: 200%;
+}
+
+p.cinco{
+    font-family: serif;
+    border: darkslateblue 1em solid;
+}
+
+p.seis{
+    font-family: sans-serif;
+    border: teal 1em solid;
+}
+
+p.siete{
+    font-family: courier;
+    border: palevioletred 1em solid;
+}
+
+section.section{
+    font-size: 50px;
+}
+
+p.ocho{
+    font-family: serif;
+    border: darkslateblue 1rem solid;
+}
+
+p.nueve{
+    font-family: sans-serif;
+    border: teal 1rem solid;
+}
+
+p.diez{
+    font-family: courier;
+    border: palevioletred 1rem solid;
+}
+
+p.once{
+    font-family: serif;
+    background-color: mediumspringgreen;
+    width: 50vw;
+    height: 50vw;
+    border: black 5px solid;
+}
+
+p.doce{
+    font-family: serif;
+    background-color: khaki;
+    width: 50vmin;
+    height: 50vmin;
+    border: black 5px solid;
+}
